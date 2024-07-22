@@ -1,0 +1,9 @@
+﻿Console.WriteLine("Estudo\tnauta");
+Console.WriteLine("Estudo\bnauta");
+Console.WriteLine("Estudo\anauta");
+Console.WriteLine("Estudo\nauta");
+Console.WriteLine("Es\rtudonauta");
+Console.WriteLine("Estudo\\nauta");
+Console.WriteLine(@"\Estudonauta\");
+Console.WriteLine("Estudo\"nauta");
+Console.ReadKey();
